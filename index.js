@@ -1,4 +1,4 @@
-import './index.css'
+  import './index.css'
   import React, { Component } from 'react'
   import LeftyAutomobile from 'react-icons/lib/lefty/automobile'
   import LeftyBed from 'react-icons/lib/lefty/bed'
